@@ -4,7 +4,7 @@
 
 ## Quick Start
 
-``` bash
+```bash
 # Install dependencies
 npm install
 
@@ -13,13 +13,7 @@ npm start
 # Dev Server (Nodemon)
 npm run dev
 ```
-
 ## App Info
-
-### Author
-
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
 
 ### Version
 
