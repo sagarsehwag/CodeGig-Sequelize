@@ -1,6 +1,10 @@
 # CodeGig
 
-> Simple Job find app for coders. This app uses Node, Express, Sequalize (Postgres) and Handlebars.
+> Simple Job find app for coders. This app uses Node, Express, Sequalize(SQLite) and Handlebars.
+
+<kbd>
+  <img src="https://i.imgur.com/ebKoG8p.gif"/>
+</kbd>
 
 ## Quick Start
 
